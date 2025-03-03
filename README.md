@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Liu Lang. 
+- 👋 Hi, my name is Liu. 
 - 🌱 I am currently studying computational Biology at Sichuan University.
 - 📧 email: nxjll1314@163.com
 
